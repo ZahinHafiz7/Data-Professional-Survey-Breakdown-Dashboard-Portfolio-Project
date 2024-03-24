@@ -1,1 +1,3 @@
 # Data-Professional-Survey-Breakdown-Dashboard-Portfolio-Project
+This is my simple portfolio project of Data Professional Survey Breakdown dashboard using Power BI
+This project involves data cleaning tasks such as removing unwanted columns, handling duplicates, and standardizing data in the Data-Professional-Survey-Breakdown dataset. The main focus is on creating a Power BI dashboard that displays key insights such as the average age of survey takers, the count of survey takers, respondents' countries, favorite programming languages, difficulty in learning data-related skills, average salary by job title, and happiness levels in terms of work/life balance and salary.
